@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1523953463 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\4. 链表--cc++\prolinkc\link.c
+	"node.h"
+	"link.h"
+
+1532153907 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\4. 链表--cc++\prolinkc\node.h
+	<stdio.h>
+
+1532153987 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\4. 链表--cc++\prolinkc\link.h
+	<stdio.h>
+	"node.h"
+
+1523953463 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\4. 链表--cc++\prolinkc\main.c
+	<stdio.h>
+	"node.h"
+	"link.h"
+
+1532153881 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\4. 链表--cc++\prolinkc\node.c
+	<stdlib.h>
+	"node.h"
+

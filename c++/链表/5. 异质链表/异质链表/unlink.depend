@@ -1,0 +1,210 @@
+# depslib dependency file v1.0
+1462330273 source:c:\users\administrator\desktop\differentlink\unlink\daterec.cpp
+	"daterec.h"
+
+1462333631 c:\users\administrator\desktop\differentlink\unlink\daterec.h
+	<iostream>
+
+1462333800 source:c:\users\administrator\desktop\differentlink\unlink\main.cpp
+	<iostream>
+	"daterec.h"
+	"schoollist.h"
+	"student.h"
+	"staff.h"
+	"teacher.h"
+
+1462332086 source:c:\users\administrator\desktop\differentlink\unlink\student.cpp
+	"student.h"
+
+1462331692 c:\users\administrator\desktop\differentlink\unlink\student.h
+	"daterec.h"
+
+1462332396 source:c:\users\administrator\desktop\differentlink\unlink\staff.cpp
+	"staff.h"
+
+1462332365 c:\users\administrator\desktop\differentlink\unlink\staff.h
+	"daterec.h"
+
+1462332717 source:c:\users\administrator\desktop\differentlink\unlink\teacher.cpp
+	"teacher.h"
+
+1462332710 c:\users\administrator\desktop\differentlink\unlink\teacher.h
+	"daterec.h"
+
+1462335853 source:c:\users\administrator\desktop\differentlink\unlink\node.cpp
+	"node.h"
+
+1462334274 c:\users\administrator\desktop\differentlink\unlink\node.h
+	<iostream>
+	"daterec.h"
+
+1462335830 source:c:\users\administrator\desktop\differentlink\unlink\schoollist.cpp
+	"schoollist.h"
+
+1462333998 c:\users\administrator\desktop\differentlink\unlink\schoollist.h
+	"node.h"
+
+1462330273 source:f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\daterec.cpp
+	"daterec.h"
+
+1462333631 f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\daterec.h
+	<iostream>
+
+1462333800 source:f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\main.cpp
+	<iostream>
+	"daterec.h"
+	"schoollist.h"
+	"student.h"
+	"staff.h"
+	"teacher.h"
+
+1462333998 f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\schoollist.h
+	"node.h"
+
+1462334274 f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\node.h
+	<iostream>
+	"daterec.h"
+
+1462331692 f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\student.h
+	"daterec.h"
+
+1462332365 f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\staff.h
+	"daterec.h"
+
+1462332710 f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\teacher.h
+	"daterec.h"
+
+1462335853 source:f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\node.cpp
+	"node.h"
+
+1462335830 source:f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\schoollist.cpp
+	"schoollist.h"
+
+1462332396 source:f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\staff.cpp
+	"staff.h"
+
+1462332086 source:f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\student.cpp
+	"student.h"
+
+1462332717 source:f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\teacher.cpp
+	"teacher.h"
+
+1468572023 source:f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\assistant.cpp
+	"assistant.h"
+
+1468572050 f:\coursedebug\03.c++programming\链表\5. 异质链表\异质链表\assistant.h
+	<iostream>
+	"daterec.h"
+
+1474093065 source:f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\main.cpp
+	<iostream>
+	"person.h"
+	"schoollist.h"
+	"student.h"
+	"staff.h"
+	"teacher.h"
+	"assistant.h"
+
+1474092823 f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\daterec.h
+	<iostream>
+
+1474092896 f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\schoollist.h
+	"node.h"
+
+1474093146 f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\node.h
+	<iostream>
+	"person.h"
+
+1474093146 f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\student.h
+	"person.h"
+
+1474093146 f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\staff.h
+	"person.h"
+
+1474093146 f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\teacher.h
+	"person.h"
+
+1474093146 f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\assistant.h
+	<iostream>
+	"person.h"
+
+1474092834 source:f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\daterec.cpp
+	"daterec.h"
+
+1474092896 source:f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\node.cpp
+	"node.h"
+
+1474092896 source:f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\schoollist.cpp
+	"schoollist.h"
+
+1474092896 source:f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\staff.cpp
+	"staff.h"
+
+1474092896 source:f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\student.cpp
+	"student.h"
+
+1474092896 source:f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\teacher.cpp
+	"teacher.h"
+
+1474093012 source:f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\assistant.cpp
+	"assistant.h"
+
+1474093094 f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\person.h
+	<iostream>
+
+1474093153 source:f:\unigress\course\03.c++programming\data\链表\5. 异质链表\异质链表\person.cpp
+	"person.h"
+
+1474093012 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\assistant.cpp
+	"assistant.h"
+
+1523954153 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\assistant.h
+	<iostream>
+	"person.h"
+
+1489128537 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\person.h
+	<iostream>
+
+1507019048 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\main.cpp
+	<iostream>
+	"person.h"
+	"schoollist.h"
+	"student.h"
+	"staff.h"
+	"teacher.h"
+	"assistant.h"
+
+1489126298 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\schoollist.h
+	"node.h"
+
+1489128302 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\node.h
+	<iostream>
+	"person.h"
+
+1474093146 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\student.h
+	"person.h"
+
+1474093146 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\staff.h
+	"person.h"
+
+1474093146 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\teacher.h
+	"person.h"
+
+1489128308 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\node.cpp
+	"node.h"
+
+1489128609 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\person.cpp
+	"person.h"
+
+1489128784 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\schoollist.cpp
+	"schoollist.h"
+
+1474092896 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\staff.cpp
+	"staff.h"
+
+1474092896 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\student.cpp
+	"student.h"
+
+1474092896 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\异质链表\teacher.cpp
+	"teacher.h"
+

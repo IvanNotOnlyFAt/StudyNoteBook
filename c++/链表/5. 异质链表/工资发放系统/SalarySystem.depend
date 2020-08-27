@@ -1,0 +1,216 @@
+# depslib dependency file v1.0
+1425180026 source:c:\users\administrator\desktop\salarysystem\salarysystem\basepluscommissionemployee.cpp
+	<iostream>
+	"BasePlusCommissionEmployee.h"
+
+1425179866 c:\users\administrator\desktop\salarysystem\salarysystem\basepluscommissionemployee.h
+	"CommissionEmployee.h"
+
+1425179910 c:\users\administrator\desktop\salarysystem\salarysystem\commissionemployee.h
+	"Employee.h"
+
+1425179950 c:\users\administrator\desktop\salarysystem\salarysystem\employee.h
+	<string>
+
+1425179890 source:c:\users\administrator\desktop\salarysystem\salarysystem\commissionemployee.cpp
+	<iostream>
+	"CommissionEmployee.h"
+
+1425179932 source:c:\users\administrator\desktop\salarysystem\salarysystem\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1425179962 source:c:\users\administrator\desktop\salarysystem\salarysystem\hourlyemployee.cpp
+	<iostream>
+	"HourlyEmployee.h"
+
+1425179978 c:\users\administrator\desktop\salarysystem\salarysystem\hourlyemployee.h
+	"Employee.h"
+
+1440319810 source:c:\users\administrator\desktop\salarysystem\salarysystem\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"Employee.h"
+	"SalariedEmployee.h"
+	"HourlyEmployee.h"
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+
+1425180014 c:\users\administrator\desktop\salarysystem\salarysystem\salariedemployee.h
+	"Employee.h"
+
+1425180002 source:c:\users\administrator\desktop\salarysystem\salarysystem\salariedemployee.cpp
+	<iostream>
+	"SalariedEmployee.h"
+
+1425180026 source:f:\unigress\course\03.c++学习\异质链表\salarysystem\basepluscommissionemployee.cpp
+	<iostream>
+	"BasePlusCommissionEmployee.h"
+
+1425179866 f:\unigress\course\03.c++学习\异质链表\salarysystem\basepluscommissionemployee.h
+	"CommissionEmployee.h"
+
+1425179910 f:\unigress\course\03.c++学习\异质链表\salarysystem\commissionemployee.h
+	"Employee.h"
+
+1425179950 f:\unigress\course\03.c++学习\异质链表\salarysystem\employee.h
+	<string>
+
+1425179890 source:f:\unigress\course\03.c++学习\异质链表\salarysystem\commissionemployee.cpp
+	<iostream>
+	"CommissionEmployee.h"
+
+1425179932 source:f:\unigress\course\03.c++学习\异质链表\salarysystem\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1425179962 source:f:\unigress\course\03.c++学习\异质链表\salarysystem\hourlyemployee.cpp
+	<iostream>
+	"HourlyEmployee.h"
+
+1425179978 f:\unigress\course\03.c++学习\异质链表\salarysystem\hourlyemployee.h
+	"Employee.h"
+
+1440319810 source:f:\unigress\course\03.c++学习\异质链表\salarysystem\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"Employee.h"
+	"SalariedEmployee.h"
+	"HourlyEmployee.h"
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+
+1425180014 f:\unigress\course\03.c++学习\异质链表\salarysystem\salariedemployee.h
+	"Employee.h"
+
+1425180002 source:f:\unigress\course\03.c++学习\异质链表\salarysystem\salariedemployee.cpp
+	<iostream>
+	"SalariedEmployee.h"
+
+1425180026 source:f:\coursedebug\03.c++programming\链表\5. 异质链表\工资发放系统\basepluscommissionemployee.cpp
+	<iostream>
+	"BasePlusCommissionEmployee.h"
+
+1425179866 f:\coursedebug\03.c++programming\链表\5. 异质链表\工资发放系统\basepluscommissionemployee.h
+	"CommissionEmployee.h"
+
+1425179910 f:\coursedebug\03.c++programming\链表\5. 异质链表\工资发放系统\commissionemployee.h
+	"Employee.h"
+
+1425179950 f:\coursedebug\03.c++programming\链表\5. 异质链表\工资发放系统\employee.h
+	<string>
+
+1425179890 source:f:\coursedebug\03.c++programming\链表\5. 异质链表\工资发放系统\commissionemployee.cpp
+	<iostream>
+	"CommissionEmployee.h"
+
+1425179932 source:f:\coursedebug\03.c++programming\链表\5. 异质链表\工资发放系统\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1425179962 source:f:\coursedebug\03.c++programming\链表\5. 异质链表\工资发放系统\hourlyemployee.cpp
+	<iostream>
+	"HourlyEmployee.h"
+
+1425179978 f:\coursedebug\03.c++programming\链表\5. 异质链表\工资发放系统\hourlyemployee.h
+	"Employee.h"
+
+1440319810 source:f:\coursedebug\03.c++programming\链表\5. 异质链表\工资发放系统\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"Employee.h"
+	"SalariedEmployee.h"
+	"HourlyEmployee.h"
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+
+1425180014 f:\coursedebug\03.c++programming\链表\5. 异质链表\工资发放系统\salariedemployee.h
+	"Employee.h"
+
+1425180002 source:f:\coursedebug\03.c++programming\链表\5. 异质链表\工资发放系统\salariedemployee.cpp
+	<iostream>
+	"SalariedEmployee.h"
+
+1425180026 source:f:\unigress\course\03.c++programming\data\链表\5. 异质链表\工资发放系统\basepluscommissionemployee.cpp
+	<iostream>
+	"BasePlusCommissionEmployee.h"
+
+1425179866 f:\unigress\course\03.c++programming\data\链表\5. 异质链表\工资发放系统\basepluscommissionemployee.h
+	"CommissionEmployee.h"
+
+1425179910 f:\unigress\course\03.c++programming\data\链表\5. 异质链表\工资发放系统\commissionemployee.h
+	"Employee.h"
+
+1425179950 f:\unigress\course\03.c++programming\data\链表\5. 异质链表\工资发放系统\employee.h
+	<string>
+
+1425179890 source:f:\unigress\course\03.c++programming\data\链表\5. 异质链表\工资发放系统\commissionemployee.cpp
+	<iostream>
+	"CommissionEmployee.h"
+
+1425179932 source:f:\unigress\course\03.c++programming\data\链表\5. 异质链表\工资发放系统\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1425179962 source:f:\unigress\course\03.c++programming\data\链表\5. 异质链表\工资发放系统\hourlyemployee.cpp
+	<iostream>
+	"HourlyEmployee.h"
+
+1425179978 f:\unigress\course\03.c++programming\data\链表\5. 异质链表\工资发放系统\hourlyemployee.h
+	"Employee.h"
+
+1425180002 source:f:\unigress\course\03.c++programming\data\链表\5. 异质链表\工资发放系统\salariedemployee.cpp
+	<iostream>
+	"SalariedEmployee.h"
+
+1425180014 f:\unigress\course\03.c++programming\data\链表\5. 异质链表\工资发放系统\salariedemployee.h
+	"Employee.h"
+
+1425180026 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\工资发放系统\basepluscommissionemployee.cpp
+	<iostream>
+	"BasePlusCommissionEmployee.h"
+
+1425179866 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\工资发放系统\basepluscommissionemployee.h
+	"CommissionEmployee.h"
+
+1425179910 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\工资发放系统\commissionemployee.h
+	"Employee.h"
+
+1425179950 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\工资发放系统\employee.h
+	<string>
+
+1425179890 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\工资发放系统\commissionemployee.cpp
+	<iostream>
+	"CommissionEmployee.h"
+
+1425179932 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\工资发放系统\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1425179962 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\工资发放系统\hourlyemployee.cpp
+	<iostream>
+	"HourlyEmployee.h"
+
+1425179978 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\工资发放系统\hourlyemployee.h
+	"Employee.h"
+
+1474093866 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\工资发放系统\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"Employee.h"
+	"SalariedEmployee.h"
+	"HourlyEmployee.h"
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+
+1425180014 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\工资发放系统\salariedemployee.h
+	"Employee.h"
+
+1425180002 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\5. 异质链表\工资发放系统\salariedemployee.cpp
+	<iostream>
+	"SalariedEmployee.h"
+

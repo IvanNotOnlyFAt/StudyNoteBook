@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1532316569 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\basepluscommissionemployee.cpp
+	"basepluscommissionemployee.h"
+
+1532315995 c:\users\administrator\desktop\c++pros\c++32\paysalary\basepluscommissionemployee.h
+	<iostream>
+	"salariedemployee.h"
+	"commissionemployee.h"
+
+1532316138 c:\users\administrator\desktop\c++pros\c++32\paysalary\salariedemployee.h
+	<iostream>
+	"employee.h"
+
+1532318913 c:\users\administrator\desktop\c++pros\c++32\paysalary\employee.h
+	<iostream>
+	"mystring.h"
+
+1532316208 c:\users\administrator\desktop\c++pros\c++32\paysalary\mystring.h
+	<iostream>
+
+1532316067 c:\users\administrator\desktop\c++pros\c++32\paysalary\commissionemployee.h
+	<iostream>
+	"employee.h"
+
+1532316554 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\commissionemployee.cpp
+	"commissionemployee.h"
+
+1532318903 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\employee.cpp
+	"employee.h"
+
+1532316540 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\hourlyemployee.cpp
+	"hourlyemployee.h"
+
+1532316412 c:\users\administrator\desktop\c++pros\c++32\paysalary\hourlyemployee.h
+	<iostream>
+	"employee.h"
+
+1532326086 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\main.cpp
+	<iostream>
+	"employee.h"
+	"salariedemployee.h"
+	"commissionemployee.h"
+	"basepluscommissionemployee.h"
+	"hourlyemployee.h"
+	"employeelist.h"
+
+1532316449 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\mystring.cpp
+	"mystring.h"
+	<string.h>
+
+1532316532 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\salariedemployee.cpp
+	"salariedemployee.h"
+
+1532323304 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\employeelist.cpp
+	"employeelist.h"
+
+1532317554 c:\users\administrator\desktop\c++pros\c++32\paysalary\employeelist.h
+	"node.h"
+
+1532319482 c:\users\administrator\desktop\c++pros\c++32\paysalary\node.h
+	<iostream>
+	"employee.h"
+
+1532319482 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\node.cpp
+	"node.h"
+
+1532316569 source:c:\users\administrator\desktop\c++pros\c++33\paysalaryvbase\basepluscommissionemployee.cpp
+	"basepluscommissionemployee.h"
+
+1532315995 c:\users\administrator\desktop\c++pros\c++33\paysalaryvbase\basepluscommissionemployee.h
+	<iostream>
+	"salariedemployee.h"
+	"commissionemployee.h"
+
+1532316138 c:\users\administrator\desktop\c++pros\c++33\paysalaryvbase\salariedemployee.h
+	<iostream>
+	"employee.h"
+
+1537664889 c:\users\administrator\desktop\c++pros\c++33\paysalaryvbase\employee.h
+	<iostream>
+	"mystring.h"
+
+1532316208 c:\users\administrator\desktop\c++pros\c++33\paysalaryvbase\mystring.h
+	<iostream>
+
+1532316067 c:\users\administrator\desktop\c++pros\c++33\paysalaryvbase\commissionemployee.h
+	<iostream>
+	"employee.h"
+
+1532316554 source:c:\users\administrator\desktop\c++pros\c++33\paysalaryvbase\commissionemployee.cpp
+	"commissionemployee.h"
+
+1532316540 source:c:\users\administrator\desktop\c++pros\c++33\paysalaryvbase\hourlyemployee.cpp
+	"hourlyemployee.h"
+
+1532316412 c:\users\administrator\desktop\c++pros\c++33\paysalaryvbase\hourlyemployee.h
+	<iostream>
+	"employee.h"
+
+1532316449 source:c:\users\administrator\desktop\c++pros\c++33\paysalaryvbase\mystring.cpp
+	"mystring.h"
+	<string.h>
+
+1532316532 source:c:\users\administrator\desktop\c++pros\c++33\paysalaryvbase\salariedemployee.cpp
+	"salariedemployee.h"
+
+1537664901 source:c:\users\administrator\desktop\c++pros\c++33\paysalaryvbase\employee.cpp
+	"employee.h"
+
+1537664967 source:c:\users\administrator\desktop\c++pros\c++33\paysalaryvbase\main.cpp
+	<iostream>
+	"employee.h"
+	"salariedemployee.h"
+	"commissionemployee.h"
+	"basepluscommissionemployee.h"
+	"hourlyemployee.h"
+
+1532316569 source:c:\users\administrator\desktop\c++pros\c++33\paysalaryvfunc\basepluscommissionemployee.cpp
+	"basepluscommissionemployee.h"
+
+1532315995 c:\users\administrator\desktop\c++pros\c++33\paysalaryvfunc\basepluscommissionemployee.h
+	<iostream>
+	"salariedemployee.h"
+	"commissionemployee.h"
+
+1532316138 c:\users\administrator\desktop\c++pros\c++33\paysalaryvfunc\salariedemployee.h
+	<iostream>
+	"employee.h"
+
+1537665741 c:\users\administrator\desktop\c++pros\c++33\paysalaryvfunc\employee.h
+	<iostream>
+	"mystring.h"
+
+1532316208 c:\users\administrator\desktop\c++pros\c++33\paysalaryvfunc\mystring.h
+	<iostream>
+
+1532316067 c:\users\administrator\desktop\c++pros\c++33\paysalaryvfunc\commissionemployee.h
+	<iostream>
+	"employee.h"
+
+1532316554 source:c:\users\administrator\desktop\c++pros\c++33\paysalaryvfunc\commissionemployee.cpp
+	"commissionemployee.h"
+
+1537664901 source:c:\users\administrator\desktop\c++pros\c++33\paysalaryvfunc\employee.cpp
+	"employee.h"
+
+1532316540 source:c:\users\administrator\desktop\c++pros\c++33\paysalaryvfunc\hourlyemployee.cpp
+	"hourlyemployee.h"
+
+1532316412 c:\users\administrator\desktop\c++pros\c++33\paysalaryvfunc\hourlyemployee.h
+	<iostream>
+	"employee.h"
+
+1537665386 source:c:\users\administrator\desktop\c++pros\c++33\paysalaryvfunc\main.cpp
+	<iostream>
+	"employee.h"
+	"salariedemployee.h"
+	"commissionemployee.h"
+	"basepluscommissionemployee.h"
+	"hourlyemployee.h"
+
+1532316449 source:c:\users\administrator\desktop\c++pros\c++33\paysalaryvfunc\mystring.cpp
+	"mystring.h"
+	<string.h>
+
+1532316532 source:c:\users\administrator\desktop\c++pros\c++33\paysalaryvfunc\salariedemployee.cpp
+	"salariedemployee.h"
+

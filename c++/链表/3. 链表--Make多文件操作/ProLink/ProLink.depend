@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1442459269 source:f:\01.课程任务\02.应用篇\12.练习--面向对象的链表\project\2. 链表--c++编程\prolink\link.cpp
+	"link.h"
+
+1442458754 f:\01.课程任务\02.应用篇\12.练习--面向对象的链表\project\2. 链表--c++编程\prolink\link.h
+	<iostream>
+	"node.h"
+
+1442458624 f:\01.课程任务\02.应用篇\12.练习--面向对象的链表\project\2. 链表--c++编程\prolink\node.h
+	<iostream>
+
+1442459093 source:f:\01.课程任务\02.应用篇\12.练习--面向对象的链表\project\2. 链表--c++编程\prolink\main.cpp
+	<iostream>
+	"node.h"
+	"link.h"
+
+1442458708 source:f:\01.课程任务\02.应用篇\12.练习--面向对象的链表\project\2. 链表--c++编程\prolink\node.cpp
+	"node.h"
+
+1442459269 source:f:\01.课程任务\02.应用篇\12.练习--面向对象的链表\project\3. 链表--make多文件操作\prolink\link.cpp
+	"link.h"
+
+1442628163 f:\01.课程任务\02.应用篇\12.练习--面向对象的链表\project\3. 链表--make多文件操作\prolink\link.h
+	<iostream>
+	"node.h"
+
+1442458624 f:\01.课程任务\02.应用篇\12.练习--面向对象的链表\project\3. 链表--make多文件操作\prolink\node.h
+	<iostream>
+
+1442459556 source:f:\01.课程任务\02.应用篇\12.练习--面向对象的链表\project\3. 链表--make多文件操作\prolink\main.cpp
+	<iostream>
+	"node.h"
+	"link.h"
+
+1442458708 source:f:\01.课程任务\02.应用篇\12.练习--面向对象的链表\project\3. 链表--make多文件操作\prolink\node.cpp
+	"node.h"
+
+1442459269 source:f:\公司课件\02.应用篇\01.qt开发\qt开发资料\01.链表资料\3. 链表--make多文件操作\prolink\link.cpp
+	"link.h"
+
+1442628163 f:\公司课件\02.应用篇\01.qt开发\qt开发资料\01.链表资料\3. 链表--make多文件操作\prolink\link.h
+	<iostream>
+	"node.h"
+
+1450241607 f:\公司课件\02.应用篇\01.qt开发\qt开发资料\01.链表资料\3. 链表--make多文件操作\prolink\node.h
+	<iostream>
+
+1442459556 source:f:\公司课件\02.应用篇\01.qt开发\qt开发资料\01.链表资料\3. 链表--make多文件操作\prolink\main.cpp
+	<iostream>
+	"node.h"
+	"link.h"
+
+1442458708 source:f:\公司课件\02.应用篇\01.qt开发\qt开发资料\01.链表资料\3. 链表--make多文件操作\prolink\node.cpp
+	"node.h"
+
+1442459269 source:f:\公司课件\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\link.cpp
+	"link.h"
+
+1442628163 f:\公司课件\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\link.h
+	<iostream>
+	"node.h"
+
+1450241607 f:\公司课件\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\node.h
+	<iostream>
+
+1442459556 source:f:\公司课件\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\main.cpp
+	<iostream>
+	"node.h"
+	"link.h"
+
+1442458708 source:f:\公司课件\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\node.cpp
+	"node.h"
+
+1442459269 source:f:\公司课件\course\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\link.cpp
+	"link.h"
+
+1442628163 f:\公司课件\course\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\link.h
+	<iostream>
+	"node.h"
+
+1450241607 f:\公司课件\course\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\node.h
+	<iostream>
+
+1442459556 source:f:\公司课件\course\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\main.cpp
+	<iostream>
+	"node.h"
+	"link.h"
+
+1442458708 source:f:\公司课件\course\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\node.cpp
+	"node.h"
+
+1442459269 source:f:\unigress\course\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\link.cpp
+	"link.h"
+
+1442628163 f:\unigress\course\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\link.h
+	<iostream>
+	"node.h"
+
+1450241607 f:\unigress\course\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\node.h
+	<iostream>
+
+1442458708 source:f:\unigress\course\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\node.cpp
+	"node.h"
+
+1460881910 source:f:\unigress\course\05.qt开发\qt开发资料\01.引言-链表\3. 链表--make多文件操作\prolink\main.cpp
+	<iostream>
+	"node.h"
+	"link.h"
+
+1442459269 source:f:\unigress\course\03.c++学习\链表\3. 链表--make多文件操作\prolink\link.cpp
+	"link.h"
+
+1442628163 f:\unigress\course\03.c++学习\链表\3. 链表--make多文件操作\prolink\link.h
+	<iostream>
+	"node.h"
+
+1450241607 f:\unigress\course\03.c++学习\链表\3. 链表--make多文件操作\prolink\node.h
+	<iostream>
+
+1460881910 source:f:\unigress\course\03.c++学习\链表\3. 链表--make多文件操作\prolink\main.cpp
+	<iostream>
+	"node.h"
+	"link.h"
+
+1442458708 source:f:\unigress\course\03.c++学习\链表\3. 链表--make多文件操作\prolink\node.cpp
+	"node.h"
+
+1442459269 source:f:\coursedebug\03.c++programming\链表\3. 链表--make多文件操作\prolink\link.cpp
+	"link.h"
+
+1442628163 f:\coursedebug\03.c++programming\链表\3. 链表--make多文件操作\prolink\link.h
+	<iostream>
+	"node.h"
+
+1450241607 f:\coursedebug\03.c++programming\链表\3. 链表--make多文件操作\prolink\node.h
+	<iostream>
+
+1460881910 source:f:\coursedebug\03.c++programming\链表\3. 链表--make多文件操作\prolink\main.cpp
+	<iostream>
+	"node.h"
+	"link.h"
+
+1442458708 source:f:\coursedebug\03.c++programming\链表\3. 链表--make多文件操作\prolink\node.cpp
+	"node.h"
+
+1474082126 source:f:\unigress\course\03.c++programming\data\链表\3. 链表--make多文件操作\prolink\link.cpp
+	"link.h"
+
+1474082612 f:\unigress\course\03.c++programming\data\链表\3. 链表--make多文件操作\prolink\link.h
+	<iostream>
+
+1450241607 f:\unigress\course\03.c++programming\data\链表\3. 链表--make多文件操作\prolink\node.h
+	<iostream>
+
+1460881910 source:f:\unigress\course\03.c++programming\data\链表\3. 链表--make多文件操作\prolink\main.cpp
+	<iostream>
+	"node.h"
+	"link.h"
+
+1442458708 source:f:\unigress\course\03.c++programming\data\链表\3. 链表--make多文件操作\prolink\node.cpp
+	"node.h"
+
+1532155703 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\3. 链表--make多文件操作\prolink\link.cpp
+	"link.h"
+	"node.h"
+
+1532155703 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\3. 链表--make多文件操作\prolink\link.h
+	<iostream>
+
+1532153594 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\3. 链表--make多文件操作\prolink\node.h
+	<iostream>
+
+1532156190 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\3. 链表--make多文件操作\prolink\main.cpp
+	<iostream>
+	"node.h"
+	"link.h"
+
+1532155703 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\3. 链表--make多文件操作\prolink\node.cpp
+	"node.h"
+

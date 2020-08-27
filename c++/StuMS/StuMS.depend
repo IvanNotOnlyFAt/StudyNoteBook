@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1555230593 source:c:\users\administrator\desktop\c++pros\c++36\stums\main.cpp
+	"studentms.h"
+
+1555230588 c:\users\administrator\desktop\c++pros\c++36\stums\studentms.h
+	"studentinfo.h"
+
+1554723145 c:\users\administrator\desktop\c++pros\c++36\stums\studentinfo.h
+	<iostream>
+	<list>
+
+1553951442 source:c:\users\administrator\desktop\c++pros\c++36\stums\studentinfo.cpp
+	"studentinfo.h"
+
+1555230556 source:c:\users\administrator\desktop\c++pros\c++36\stums\studentms.cpp
+	"studentms.h"
+	<string.h>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<cstdlib>
+	<algorithm>
+	<iomanip>
+
+1555230593 source:c:\users\hp\desktop\stums\main.cpp
+	"studentms.h"
+
+1555230588 c:\users\hp\desktop\stums\studentms.h
+	"studentinfo.h"
+
+1554723145 c:\users\hp\desktop\stums\studentinfo.h
+	<iostream>
+	<list>
+
+1555238220 source:c:\users\hp\desktop\stums\studentinfo.cpp
+	"studentinfo.h"
+
+1555230556 source:c:\users\hp\desktop\stums\studentms.cpp
+	"studentms.h"
+	<string.h>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<cstdlib>
+	<algorithm>
+	<iomanip>
+

@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1532081778 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\basepluscommissionemployee.cpp
+	"basepluscommissionemployee.h"
+
+1532081825 c:\users\administrator\desktop\c++pros\c++32\paysalary\basepluscommissionemployee.h
+	<iostream>
+	"salariedemployee.h"
+	"commissionemployee.h"
+
+1532080562 c:\users\administrator\desktop\c++pros\c++32\paysalary\salariedemployee.h
+	<iostream>
+	"employee.h"
+
+1532075582 c:\users\administrator\desktop\c++pros\c++32\paysalary\employee.h
+	<iostream>
+	"mystring.h"
+
+1532075646 c:\users\administrator\desktop\c++pros\c++32\paysalary\mystring.h
+	<iostream>
+
+1532080628 c:\users\administrator\desktop\c++pros\c++32\paysalary\commissionemployee.h
+	<iostream>
+	"employee.h"
+
+1532081724 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\commissionemployee.cpp
+	"commissionemployee.h"
+
+1532075529 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\employee.cpp
+	"employee.h"
+
+1532077343 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\hourlyemployee.cpp
+	"hourlyemployee.h"
+
+1532081605 c:\users\administrator\desktop\c++pros\c++32\paysalary\hourlyemployee.h
+	<iostream>
+	"employee.h"
+
+1532082576 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\main.cpp
+	<iostream>
+	"employee.h"
+	"salariedemployee.h"
+	"commissionemployee.h"
+	"basepluscommissionemployee.h"
+	"hourlyemployee.h"
+
+1532075683 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\mystring.cpp
+	"mystring.h"
+	<string.h>
+
+1532076327 source:c:\users\administrator\desktop\c++pros\c++32\paysalary\salariedemployee.cpp
+	"salariedemployee.h"
+
