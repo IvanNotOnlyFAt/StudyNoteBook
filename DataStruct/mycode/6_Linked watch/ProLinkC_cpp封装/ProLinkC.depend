@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1523953463 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\4. 链表--cc++\prolinkc\link.c
+	"node.h"
+	"link.h"
+
+1532153907 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\4. 链表--cc++\prolinkc\node.h
+	<stdio.h>
+
+1532153987 f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\4. 链表--cc++\prolinkc\link.h
+	<stdio.h>
+	"node.h"
+
+1523953463 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\4. 链表--cc++\prolinkc\main.c
+	<stdio.h>
+	"node.h"
+	"link.h"
+
+1532153881 source:f:\unigress\course\01.programbasic\03.c++programming\c++datas\链表\4. 链表--cc++\prolinkc\node.c
+	<stdlib.h>
+	"node.h"
+
+1523953463 source:g:\courses\01.embeddedcourse\1.c++program\datas\链表\4. 链表--cc++\prolinkc\link.c
+	"node.h"
+	"link.h"
+
+1532153907 g:\courses\01.embeddedcourse\1.c++program\datas\链表\4. 链表--cc++\prolinkc\node.h
+	<stdio.h>
+
+1532153987 g:\courses\01.embeddedcourse\1.c++program\datas\链表\4. 链表--cc++\prolinkc\link.h
+	<stdio.h>
+	"node.h"
+
+1532153881 source:g:\courses\01.embeddedcourse\1.c++program\datas\链表\4. 链表--cc++\prolinkc\node.c
+	<stdlib.h>
+	"node.h"
+
+1598861601 source:c:\users\hp\desktop\链表一家\prolinkc\link.c
+	"node.h"
+	"link.h"
+
+1578970744 c:\users\hp\desktop\链表一家\prolinkc\node.h
+	<stdio.h>
+
+1598860961 c:\users\hp\desktop\链表一家\prolinkc\link.h
+	<stdio.h>
+	"node.h"
+
+1598861515 source:c:\users\hp\desktop\链表一家\prolinkc\main.c
+	<stdio.h>
+	"node.h"
+	"link.h"
+
+1569037997 source:c:\users\hp\desktop\链表一家\prolinkc\node.c
+	<stdlib.h>
+	"node.h"
+
